@@ -30,3 +30,5 @@ de8e92d6e1b0bba25c57316a5aa98752 fancyss_ipq64_full_3.4.10.tar.gz
 bedfde472b9af3d5b7024b81eda8f9f5 fancyss_ipq64_lite_3.4.11.tar.gz
 ef711e8ea8a502e4a4faca1aacc9ff9c fancyss_ipq64_full_3.4.12.tar.gz
 28146c6601ed16c35003b731b0ec340a fancyss_ipq64_lite_3.4.12.tar.gz
+a138c0f78376039da4f8a02db7b9c15f fancyss_ipq64_full_3.4.13.tar.gz
+85c4ada58598c60d96abb4b113e40178 fancyss_ipq64_lite_3.4.13.tar.gz
